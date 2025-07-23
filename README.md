@@ -1,23 +1,26 @@
 # 🚀 DSA Problem Tracker
 
 ## 📊 Statistics
-- **Total Problems Solved:** 1
-- **Last Updated:** 2025-07-23 11:47:34
+- **Total Problems Solved:** 2
+- **Last Updated:** 2025-07-23 12:04:57
 
 ## 🎯 Problems by Difficulty
 - 🟢 Easy: 1
-- 🟡 Medium: 0
+- 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ## 📚 Problems by Category
+- Binary Search: 1
 - Two Pointers: 1
 
 ## 🌐 Problems by Platform
+- HackerRank: 1
 - LeetCode: 1
 
 ## 📝 Recent Problems
 | Problem | Platform | Difficulty | Category | Date |
 |---------|----------|------------|----------|------|
+| Binary Tree | HackerRank | 🟡 Medium | Binary Search | 2025-07-23 |
 | Two Sum | LeetCode | 🟢 Easy | Two Pointers | 2025-07-23 |
 
 ---
