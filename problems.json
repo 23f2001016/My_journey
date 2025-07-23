@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-07-23T11:47:34.437377",
+  "problems": [
+    {
+      "id": 1,
+      "name": "Two Sum",
+      "platform": "LeetCode",
+      "difficulty": "easy",
+      "category": "Two Pointers",
+      "status": "solved",
+      "date_solved": "2025-07-23T11:43:21.429173",
+      "solution_path": null,
+      "notes": "",
+      "attempts": 1
+    }
+  ],
+  "statistics": {
+    "total": 1,
+    "solved": 1
+  }
+}
