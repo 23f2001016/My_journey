@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-23T11:47:34.437377",
+  "last_updated": "2025-07-23T12:04:57.096325",
   "problems": [
     {
       "id": 1,
@@ -12,10 +12,22 @@
       "solution_path": null,
       "notes": "",
       "attempts": 1
+    },
+    {
+      "id": 2,
+      "name": "Binary Tree",
+      "platform": "HackerRank",
+      "difficulty": "medium",
+      "category": "Binary Search",
+      "status": "solved",
+      "date_solved": "2025-07-23T12:04:20.929802",
+      "solution_path": null,
+      "notes": "",
+      "attempts": 1
     }
   ],
   "statistics": {
-    "total": 1,
-    "solved": 1
+    "total": 2,
+    "solved": 2
   }
 }
