@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-23T23:48:39.051561",
+  "last_updated": "2025-07-23T23:49:29.477446",
   "problems": [
     {
       "id": 1,
@@ -24,10 +24,22 @@
       "solution_path": null,
       "notes": "",
       "attempts": 1
+    },
+    {
+      "id": 3,
+      "name": "Level Order Traversal",
+      "platform": "CodeForces",
+      "difficulty": "easy",
+      "category": "Binary Search",
+      "status": "solved",
+      "date_solved": "2025-07-23T23:49:05.221253",
+      "solution_path": null,
+      "notes": "",
+      "attempts": 1
     }
   ],
   "statistics": {
-    "total": 2,
-    "solved": 2
+    "total": 3,
+    "solved": 3
   }
 }
